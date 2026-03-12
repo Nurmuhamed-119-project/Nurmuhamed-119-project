@@ -487,7 +487,7 @@ ul li {
 }
 
 .anketa-left input {
-    padding: 5px ;
+    padding: 5px;
     border-radius: 10px;
     border: 1px solid gray;
 }
@@ -511,7 +511,7 @@ ul li {
     font-weight: 400;
     width: 120%;
     height: 290px;
-    
+
 
 }
 
@@ -552,11 +552,12 @@ footer {
     margin-bottom: 20px;
 }
 
-.footer-top ul{
+.footer-top ul {
     display: flex;
     gap: 50px;
 }
-.footer-bottom{
+
+.footer-bottom {
     display: flex;
     align-items: center;
     justify-content: space-between;
